@@ -13,5 +13,8 @@ I make useful tools, careful systems, and playful experiments around software, A
 - [Harmony](https://github.com/artur-shlyapnikov/harmony) — a browser-based melody and chord editor with playback and MIDI export.
 - [LATS implementation](https://github.com/artur-shlyapnikov/lats-implementation) — a Python implementation of Language Agent Tree Search.
 - [Pi North Star](https://github.com/artur-shlyapnikov/pi-north-star) — persistent goals and continuation for a coding agent.
+- [gRPC Performance Testing Lab](https://github.com/artur-shlyapnikov/grpc-service-benchmark) — a monitored gRPC load-testing environment.
+- [Hacker News Digest](https://github.com/artur-shlyapnikov/hn-distill) — a self-hosted digest of stories, articles, and comments.
+- [ilograph-cli](https://github.com/artur-shlyapnikov/ilograph-cli) — safe, transactional YAML edits for Ilograph diagrams.
 
 More experiments live in my repositories.
