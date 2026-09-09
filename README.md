@@ -1,5 +1,3 @@
-# Artur Shlyapnikov
-
 I like computers. I like to build.
 
 I make useful tools, careful systems, and playful experiments around software, AI, and music.
