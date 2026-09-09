@@ -18,3 +18,7 @@ I make useful tools, careful systems, and playful experiments around software, A
 - [ilograph-cli](https://github.com/artur-shlyapnikov/ilograph-cli) — safe, transactional YAML edits for Ilograph diagrams.
 
 More experiments live in my repositories.
+
+## Now
+
+I'm currently building [Zagovor](https://zagovor.quest/), a card game.
