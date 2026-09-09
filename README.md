@@ -17,4 +17,6 @@ More experiments live in my repositories.
 
 ## Now
 
+<img width="1119" height="639" alt="zagovor.quest" src="https://github.com/user-attachments/assets/5faaf131-3ae8-41d2-888a-14101853352c" />
+
 I'm currently building [Zagovor](https://zagovor.quest/), a card game.
