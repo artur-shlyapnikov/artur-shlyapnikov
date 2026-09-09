@@ -11,7 +11,7 @@ I like to build.
 - [Hacker News Digest](https://github.com/artur-shlyapnikov/hn-distill) — a self-hosted digest of HN stories, articles, and comments.
 - [ilograph-cli](https://github.com/artur-shlyapnikov/ilograph-cli) — safe, transactional edits for Ilograph diagrams.
 - [AgentTerminal](https://github.com/artur-shlyapnikov/agent-terminal) — a native macOS workspace for coding agents in real terminals.
-- [LATS implementation](https://github.com/artur-shlyapnikov/lats-implementation) — an adaptation of the implementation of Language Agent Tree Search for GPT4 (that was so cool back then!).
+- [LATS implementation](https://github.com/artur-shlyapnikov/lats-implementation) — an adaptation of Language Agent Tree Search impl. for GPT4 _(that was SOTA back then!)._
 - [gRPC Performance Testing Lab](https://github.com/artur-shlyapnikov/grpc-service-benchmark) — a monitored gRPC load-testing environment.
 
 More experiments live in my repositories.
